@@ -14,4 +14,3 @@ The `cxl-reskit` repository is the top-level repo for the CMRK.  From there you 
 * Read the [documentation](https://github.com/cxl-reskit/cxl-reskit) to learn more about
 CXL memory and the CMRK
 * Ask a question, share ideas, or read announcements in the CMRK [discussions forum](https://github.com/cxl-reskit/cxl-reskit/discussions)
-* Report [issues](https://github.com/cxl-reskit/cxl-reskit/issues) found in CMRK components
