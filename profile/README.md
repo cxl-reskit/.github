@@ -4,7 +4,7 @@ The CMRK is a collection of documentation, tools, and benchmarks for use with CX
 It comprises both original content and CXL-related enhancements to external projects
 that we plan to submit to upstream where appropriate.
 
-We expect to expand the CMRK over time, in collaboration with the community, to help enable
+Our goal is to expand the CMRK over time, in collaboration with the community, to help enable
 applications to take full advantage of CXL memory.
 
 ## Getting Started
